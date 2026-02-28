@@ -1,5 +1,4 @@
 
-<script>
 document.getElementById('F').addEventListener('change', function(event) {
     const file = event.target.files[0];
     if (!file) return;
@@ -13,5 +12,4 @@ document.getElementById('F').addEventListener('change', function(event) {
     reader.readAsText(file); // Reads file as plain text
 });
 
-  
-</script>
+
