@@ -7,7 +7,7 @@
 
 <div>
 
-<input type="file"  id="fileUpload">
+<input type="file"  id="fileUpload"/>
 
 
 
